@@ -1,0 +1,59 @@
+
+
+h1{
+    background: white;
+    padding: 1.5px;
+    border-radius: 4px;
+    font-style: normal;
+    box-shadow: 0 8px 36px
+}
+
+
+
+#Menu{
+    width: 100%;
+    height: 40px;
+    background-color: darkgray;
+    padding-top: 12px;
+    text-align: center;
+    
+    
+        
+}
+#Menu a:hover{
+    color: whitesmoke;
+    transition:1s;
+    
+}
+#Menu a{
+    color: black;
+    font-size: 18px;
+    font-weight: bolder;
+    text-decoration: none;
+    padding-left: 12px;
+    padding-right: 12px;
+    box-shadow: 0 8px 6px;
+}
+
+.Gallery{
+    font-family: cooper black,sans-serif;
+    font-size: 25px;
+}
+.Gallery p{
+    text-align: center;
+    box-shadow: 0 2px 12px;
+}
+.Gallery p:hover{
+    color: lightslategrey;
+}
+body{
+    color: black
+}
+text{
+    background: yellow;
+}
+#key{
+    border-collapse: collapse;
+    font-style: italic;
+ 
+}
